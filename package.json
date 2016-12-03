@@ -1,0 +1,10 @@
+{
+  "name": "hyper-tabs",
+  "version": "0.0.1",
+  "author": "Logan Crossan",
+  "keywords": [
+    "hyperterm"
+  ],
+  "description": "Various utilities to improve tabbed consoles in Hyper.app",
+  "dependencies": {}
+}
